@@ -7,5 +7,5 @@ highlighter: rouge
 permalink: :title/
 relative_permalinks: false
 
-api: "https://api.carpoolvote.com/live"
-cp_site: "http://carpoolvote.com"
+api: "https://api.carpoolvote.ragtag.tech/live"
+cp_site: "http://carpoolvote.ragtag.tech"
